@@ -1,4 +1,3 @@
-![logo](https://github.com/iSathyam31/iSathyam31/blob/main/big-data-analytics-illustration-dark-background_488220-9906.avif)
 <h1 align="center">Hi 👋, I'm Sathyam A</h1>
 <h3 align="center">I'm a passionate Data Analytics Enthusiast from India</h3>
 
