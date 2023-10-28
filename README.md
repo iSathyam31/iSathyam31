@@ -4,6 +4,7 @@
   <li>I'm a passionate data explorer and a 📊 Data Analytics Enthusiast 📈</li>
   <li>I love the thrill of making data dance to my analytical tunes 💃</li>
   <li>Currently exploring the different tools of Data Analysis and Visualization 📊🔍</li>
+  <li>Also working on Machine Learning🔍</li>
  </ul>
 
 <img align="right" alt="coding" width ="400" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
