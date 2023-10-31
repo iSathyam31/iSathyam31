@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isathyam31&layout=compact" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isathyam31&amp" /></p>
+
