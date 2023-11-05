@@ -3,21 +3,20 @@
 <ul type="circle">
   <li>I'm a passionate data explorer and a 📊 Data Analytics Enthusiast 📈</li>
   <li>I love the thrill of making data dance to my analytical tunes 💃</li>
-  <li>Currently exploring the different tools of Data Analysis and Visualization 📊🔍</li>
-  <li>Also working on Machine Learning🔍</li>
+  <li>Currently exploring Advanced Data Analytical Concepts like Machine Learning and Statistics 📊🔍</li>
  </ul>
 
 <img align="right" alt="coding" width ="400" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isathyam31&label=Profile%20views&color=0e75b6&style=flat" alt="isathyam31" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **Advanced Data Analytics**
 
 - 👨‍💻 All of my projects are available at [http://www.github.com/iSathyam31](http://www.github.com/iSathyam31)
 
-- 💬 Ask me about **Data Science or Any-Tech related Stuff**
+- 💬 You can ask my about **Data Science or Any-Tech related Stuff**
 
-- 📫 How to reach me **sathyama0302@gmail.com**
+- 📫 Want to have a conversation?! Here's my E-mail **sathyama0302@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
