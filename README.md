@@ -1,9 +1,9 @@
 <h1 align="center">Heya!!👋 I'm Sathyam A</h1>
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
-  <li>I'm a passionate data explorer and a 📊 Data Analytics Enthusiast 📈</li>
+  <li>I'm a passionate data explorer and a 📊 Data Enthusiast 📈</li>
   <li>I love the thrill of making data dance to my analytical tunes 💃</li>
-  <li>Currently exploring Advanced Data Analytical Concepts like Machine Learning and Statistics 📊🔍</li>
+  <li>Currently exploring Advanced Data Analytical Concepts and Machine Learning techniques 📊🔍</li>
  </ul>
 
 <img align="right" alt="coding" width ="400" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.github.com/iSathyam31](http://www.github.com/iSathyam31)
 
-- 💬 You can ask my about **Data Science or Any-Tech related Stuff**
+- 💬 You can ask my about **Data Science AI/ML or Any-Tech related Stuff**
 
 - 📫 Want to have a conversation?! Here's my E-mail **sathyama0302@gmail.com**
 
