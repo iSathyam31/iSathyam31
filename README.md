@@ -1,5 +1,3 @@
-![logo](https://media.licdn.com/dms/image/C4E1BAQEgKLUAYDztBQ/company-background_10000/0/1627064906431/kdag_cover?e=2147483647&v=beta&t=1cFKdHX_S7J6ddgb54TvClZ8lkOrWMevk7vBKqy-ztI)
-
 <h1 align="center">Heya!!👋 I'm Sathyam A</h1>
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
@@ -14,11 +12,13 @@
 
 - 🔭 I’m currently working on **Advanced Data Analytics**
 
-- 👨‍💻 All of my projects are available at [http://www.github.com/iSathyam31](http://www.github.com/iSathyam31)
+- 👨‍💻 All of my projects are available at [Github](http://www.github.com/iSathyam31)
 
 - 💬 You can ask my about **Data Science AI/ML or Any-Tech related Stuff**
 
 - 📫 Want to have a conversation?! Here's my E-mail **sathyama0302@gmail.com**
+
+- 💼 Check out my Portfolio Website [Here](https://sathyama.dorik.io/)
 
 ## 💬 Connet with me:
 <p align="left">
