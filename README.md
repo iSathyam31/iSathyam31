@@ -8,7 +8,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=iSathyam31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👨‍💻 Check out my project on [Github](http://www.github.com/iSathyam31)
+- 👨‍💻 Check out my project here [Github](http://www.github.com/iSathyam31)
 
 - 💬 You can ask my about **Data Science and any AI/ML related Stuff**
 
