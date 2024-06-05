@@ -1,4 +1,4 @@
-<h1 align="center">Heya!!👋 I'm Sathyam A</h1>
+<h1 align="center">Heya!!👋 </h1>
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
   <li>I'm passionate data explorer and a 📊 Data Enthusiast 📈</li>
