@@ -1,22 +1,18 @@
 <h1 align="center">Heya!!👋 </h1>
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
-  <li>I'm passionate data explorer and a 📊 Data Enthusiast 📈</li>
-  <li>I love the thrill of making data dance to my analytical tunes 💃</li>
-  <li>Currently exploring Advanced Data Analytical Concepts and Machine Learning techniques 📊🔍</li>
+  <li>I'm passionate Data Science and AI/ML Enthusiast 📈</li>
+  <li>I can play with day all day 🕺</li>
+  <li>Currently exploring the field of Generative AI 📊🔍</li>
  </ul>
 
 [![](https://visitcount.itsvg.in/api?id=iSathyam31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Advanced Data Analytics**
+- 👨‍💻 Check out my project on [Github](http://www.github.com/iSathyam31)
 
-- 👨‍💻 All of my projects are available at [Github](http://www.github.com/iSathyam31)
-
-- 💬 You can ask my about **Data Science AI/ML or Any-Tech related Stuff**
+- 💬 You can ask my about **Data Science and any AI/ML related Stuff**
 
 - 📫 Want to have a conversation?! Here's my E-mail **sathyama0302@gmail.com**
-
-- 💼 Check out my Portfolio Website [Here](https://sathyama.dorik.io/)
 
 ## 💬 Connet with me:
 <p align="left">
