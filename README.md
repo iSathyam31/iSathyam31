@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my project here [Github](http://www.github.com/iSathyam31)
 
-- 💬 You can ask my about **Data Science and any AI/ML related Stuff**
+- 💬 You can ask me about **Data Science and any AI/ML related Stuff**
 
 - 📫 Want to have a conversation?! Here's my E-mail **sathyama0302@gmail.com**
 
