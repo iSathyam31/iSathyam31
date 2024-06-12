@@ -2,7 +2,7 @@
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
   <li>I'm passionate Data Science and AI/ML Enthusiast 📈</li>
-  <li>I can play with day all day 🕺</li>
+  <li>I can play with Data the all day 🕺</li>
   <li>Currently exploring the field of Generative AI 📊🔍</li>
  </ul>
 
