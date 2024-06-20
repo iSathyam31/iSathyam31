@@ -1,4 +1,14 @@
 <h1 align="center">Heya!!👋 </h1>
+<h2>🌟 About Me:</h2>
+
+I'm Sathyam, third year student at Indian Institute of Information Technology Sri City, a passionate Data Science📈 and AI/ML🔍 enthusiast with a knack for exploring the endless possibilities of data. I can play with data the all day 🕺
+
+### 🎯 Goals:
+My current goal is to delve deeper into Generative AI 🤖🧠✨ and its applications in creative industries. I'm excited about the potential of AI to redefine how we interact with art and media.
+
+### 🌍 Outside of Tech:
+Beyond the screen, I enjoy playing Sports like Cricket, Football, Basketball🏏⚽🏀. I also like watching Anime🎌. I even have a deep interest in Space 🌌 , Mythology 🏛️ , Demonology👹 and other related topics. I love to listen music🎶 and can even sing a little bit🎤.
+
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
   <li>I'm passionate Data Science and AI/ML Enthusiast 📈</li>
@@ -8,13 +18,28 @@
 
 [![](https://visitcount.itsvg.in/api?id=iSathyam31&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="left">
+  <a href="https://github.com/iSathyam31">
+    <img src="https://img.shields.io/github/followers/iSathyam31?style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/iSathyam31">
+    <img src="https://img.shields.io/github/stars/iSathyam31/iSathyam31?style=social" alt="GitHub stars">
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-blue" alt="Data Science Enthusiast">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-green" alt="AI/ML Enthusiast">
+</p>
+
 - 👨‍💻 Check out my project here [Github](http://www.github.com/iSathyam31)
 
 - 💬 You can ask me about **Data Science and any AI/ML related Stuff**
 
 - 📫 Want to have a conversation?! Here's my E-mail **sathyama0302@gmail.com**
 
-## 💬 Connet with me:
+
+<h2>💬 Connet with me:</h2> 
 <p align="left">
 <a href="https://twitter.com/sathyama4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathyama4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sathyam-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathyam-a" height="30" width="40" /></a>
@@ -22,7 +47,7 @@
 <a href="https://instagram.com/_.03.satyam._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.03.satyam._" height="30" width="40" /></a>
 </p>
 
-## 👨‍💻 Tech Stack:
+<h2>👨‍💻 Tech Stack:</h2>
 <p align="left"> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a> 
@@ -40,13 +65,20 @@
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idS8GMP5c8/idWc43u9Pe.svg" alt="MLflow" width="40" height="40"/> </a><a href="https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1298510298855895918" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="Figma" width="40" height="40"/> </a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"alt="Canva" width="40" height="40"/> </a></p>
 
-# 📊 GitHub Stats:
+<h2>🏆 Certifications and Badges:</h2>
+
+- **Google Data Analytics**: [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/V3U8HN4SCPMN)
+- **Google Advanced Data Analytics**: [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/VB6NCFDRKLLT)
+- **Machine Learning A-Z**: [Udemy](https://www.udemy.com/certificate/UC-9defea82-ae0f-4c78-8564-72d9e80227a8/)
+- **Deep Learning A-Z**: [Udemy](https://www.udemy.com/certificate/UC-4ab6785a-77b1-4731-b064-895c11f091d6/)
+
+<h2>📊 GitHub Stats:</h2>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iSathyam31&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=iSathyam31&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iSathyam31&theme=tokyonight&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies:</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=iSathyam31&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-
