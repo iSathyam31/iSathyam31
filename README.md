@@ -9,13 +9,6 @@ My current goal is to delve deeper into Generative AI 🤖🧠✨ and its applic
 ### 🌍 Outside of Tech:
 Beyond the screen, I enjoy playing Sports like Cricket, Football, Basketball🏏⚽🏀. I also like watching Anime🎌. I even have a deep interest in Space 🌌 , Mythology 🏛️ , Demonology👹 and other related topics. I love to listen music🎶 and can even sing a little bit🎤.
 
-<h2>👨‍💻 About Me:</h2>
-<ul type="circle">
-  <li>I'm passionate Data Science and AI/ML Enthusiast 📈</li>
-  <li>I can play with Data the all day 🕺</li>
-  <li>Currently exploring the field of Generative AI 📊🔍</li>
- </ul>
-
 [![](https://visitcount.itsvg.in/api?id=iSathyam31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left">
@@ -29,7 +22,7 @@ Beyond the screen, I enjoy playing Sports like Cricket, Football, Basketball🏏
 
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-blue" alt="Data Science Enthusiast">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-green" alt="AI/ML Enthusiast">
+  <img src="https://img.shields.io/badge/AI%20ML-Enthusiast-green" alt="AI/ML Enthusiast">
 </p>
 
 - 👨‍💻 Check out my project here [Github](http://www.github.com/iSathyam31)
