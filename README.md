@@ -7,7 +7,7 @@ I'm Sathyam, third year student at Indian Institute of Information Technology Sr
 My current goal is to delve deeper into Generative AI 🤖🧠✨ and its applications in creative industries. I'm excited about the potential of AI to redefine how we interact with art and media.
 
 ### 🌍 Outside of Tech:
-Beyond the screen, I enjoy playing Sports like Cricket, Football, Basketball🏏⚽🏀. I also like watching Anime🎌. I even have a deep interest in Space 🌌 , Mythology 🏛️ , Demonology👹 and other related topics. I love to listen music🎶 and can even sing a little bit🎤.
+Beyond the screen, I enjoy playing Sports like Cricket, Football, Basketball🏏⚽🏀. I also like watching Anime🎌🌸. I even have a deep interest in Space 🌌 , Mythology 🏛️ , Demonology👹 and other related topics. I love to listen music🎶 and can even sing a little bit🎤.
 
 [![](https://visitcount.itsvg.in/api?id=iSathyam31&icon=0&color=0)](https://visitcount.itsvg.in)
 
