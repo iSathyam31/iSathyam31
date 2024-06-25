@@ -25,7 +25,8 @@ Beyond the screen, I enjoy playing Sports like Cricket, Football, Basketball🏏
   <img src="https://img.shields.io/badge/AI%20ML-Enthusiast-green" alt="AI/ML Enthusiast">
 </p>
 
-- 👨‍💻 Check out my project here [Github](http://www.github.com/iSathyam31)
+- 👨‍💻 All of my project are available on [Github](http://www.github.com/iSathyam31)
+- 💼 Check out my portfolio website here [Website](https://isathyam31.github.io/Portfolio/)
 
 - 💬 You can ask me about **Data Science and any AI/ML related Stuff**
 
