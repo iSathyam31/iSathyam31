@@ -27,6 +27,7 @@ Beyond the screen, I enjoy playing Sports like Cricket, Football, Basketball🏏
 
 - 👨‍💻 All of my project are available on [Github](http://www.github.com/iSathyam31)
 - 💼 Check out my portfolio website here [Website](https://isathyam31.github.io/Portfolio/)
+- 📝 You can view my resume with this Google Drive Link [Here](https://drive.google.com/drive/folders/1T6dVVgdf4XWGtsBwgP7dz9LYry4gSsOF?usp=sharing)
 
 - 💬 You can ask me about **Data Science and any AI/ML related Stuff**
 
