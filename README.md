@@ -3,9 +3,6 @@
 
 I'm Sathyam, third year student at Indian Institute of Information Technology Sri City, a passionate Data Science📈 and AI/ML🔍 enthusiast with a knack for exploring the endless possibilities of data. I can play with data the all day 🕺
 
-### 🎯 Goals:
-My current goal is to delve deeper into Generative AI 🤖🧠✨ and its applications in creative industries. I'm excited about the potential of AI to redefine how we interact with art and media.
-
 [![](https://visitcount.itsvg.in/api?id=iSathyam31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left">
@@ -22,20 +19,14 @@ My current goal is to delve deeper into Generative AI 🤖🧠✨ and its applic
   <img src="https://img.shields.io/badge/AI%20ML-Enthusiast-green" alt="AI/ML Enthusiast">
 </p>
 
-- 👨‍💻 All of my project are available on [Github](http://www.github.com/iSathyam31)
 - 💼 Check out my portfolio website here [Website](https://isathyam31.github.io/Portfolio/)
 - 📝 You can view my resume with this Google Drive Link [Here](https://drive.google.com/drive/folders/1T6dVVgdf4XWGtsBwgP7dz9LYry4gSsOF?usp=sharing)
-
 - 💬 You can ask me about **Data Science and any AI/ML related Stuff**
-
-- 📫 Want to have a conversation?! Here's my E-mail **sathyama0302@gmail.com**
 
 
 <h2>💬 Connet with me:</h2> 
 <p align="left">
-<a href="https://twitter.com/sathyama4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathyama4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sathyam-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathyam-a" height="30" width="40" /></a>
-<a href="https://kaggle.com/sathyama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sathyama" height="30" width="40" /></a>
 <a href="https://instagram.com/_.03.satyam._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.03.satyam._" height="30" width="40" /></a>
 </p>
 
