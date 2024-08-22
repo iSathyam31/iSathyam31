@@ -1,4 +1,3 @@
-<h1 align="center">Heya!!👋 </h1>
 <h2>🌟 About Me:</h2>
 
 I'm Sathyam, third year student at Indian Institute of Information Technology Sri City, a passionate Data Science📈 and AI/ML🔍 enthusiast with a knack for exploring the endless possibilities of data. I can play with data the all day 🕺
