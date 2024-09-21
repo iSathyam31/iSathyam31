@@ -19,7 +19,7 @@ I'm Sathyam, third year student at Indian Institute of Information Technology Sr
 </p>
 
 - 💼 Check out my portfolio website here [Website](https://isathyam31.github.io/Portfolio/)
-- 📝 You can view my resume with this Google Drive Link [Here](https://drive.google.com/drive/folders/1T6dVVgdf4XWGtsBwgP7dz9LYry4gSsOF?usp=sharing)
+- 📝 You can view my resume with this Google Drive Link [Here](https://drive.google.com/drive/folders/1IVEE0mrl-3T8zDbbu7tba_pPjY_Zexua?usp=sharing)
 - 💬 You can ask me about **Data Science and any AI/ML related Stuff**
 
 
