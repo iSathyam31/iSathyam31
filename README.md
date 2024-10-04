@@ -23,7 +23,7 @@ I'm Sathyam, third year student at Indian Institute of Information Technology Sr
 - 💬 You can ask me about **Data Science and any AI/ML related Stuff**
 
 
-<h2>💬 Connet with me:</h2> 
+<h2>💬 Connect with me:</h2> 
 <p align="left">
 <a href="https://linkedin.com/in/sathyam-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathyam-a" height="30" width="40" /></a>
 <a href="https://instagram.com/_.03.satyam._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.03.satyam._" height="30" width="40" /></a>
