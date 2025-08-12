@@ -25,7 +25,7 @@ I'm <b>Sathyam</b>, a third-year student at Indian Institute of Information Tech
 </p>
 
 <p align="center">
-  💼 Check out my portfolio website here: <a href="https://isathyam31.github.io/Portfolio/">Website</a><br>
+  💼 Check out my portfolio website here: <a href="https://syth-portfolio.vercel.app/">Website</a><br>
   📝 View my resume: <a href="https://drive.google.com/drive/folders/1IVEE0mrl-3T8zDbbu7tba_pPjY_Zexua?usp=sharing">Here</a><br>
   💬 You can ask me about <b>Data Science and AI/ML</b>.
 </p>
