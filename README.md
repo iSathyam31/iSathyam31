@@ -25,7 +25,7 @@
 
 ### 🎯 What I Do
 
-I engineer production-ready AI systems that transform how organizations process information and make decisions. My work spans:
+I engineer  AI systems that transform how organizations process information and make decisions. My work spans:
 
 - 🤖 **Agentic AI Systems** - Building multi-agent architectures and exploring autonomous decision-making workflows
 - 🔗 **RAG Pipelines** - Developing retrieval-augmented generation systems for knowledge management
