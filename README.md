@@ -38,7 +38,7 @@ I engineer  AI systems that transform how organizations process information and 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a78bfa) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=a78bfa) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=a78bfa)
 
 **Machine Learning & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=a78bfa) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=a78bfa) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=a78bfa) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=a78bfa) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logoColor=a78bfa) ![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logoColor=a78bfa)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=a78bfa) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=a78bfa) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=a78bfa) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=a78bfa) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logoColor=a78bfa) ![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logoColor=a78bfa) ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=a78bfa)
 
 **Generative AI & LLM Engineering**  
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0d1117?style=flat-square&logoColor=a78bfa) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=a78bfa) ![Transformers](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=a78bfa)
@@ -46,14 +46,11 @@ I engineer  AI systems that transform how organizations process information and 
 **Agentic AI & Automation**  
 ![Agno](https://img.shields.io/badge/Agno-0d1117?style=flat-square&logo=robot&logoColor=a78bfa) ![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=flat-square&logo=robot&logoColor=a78bfa) ![AutoGen](https://img.shields.io/badge/AutoGen-0d1117?style=flat-square&logo=microsoft&logoColor=a78bfa) ![Google ADK](https://img.shields.io/badge/Google_ADK-0d1117?style=flat-square&logo=google&logoColor=a78bfa) ![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logoColor=a78bfa) ![A2A](https://img.shields.io/badge/A2A-0d1117?style=flat-square&logoColor=a78bfa) ![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=a78bfa)
 
-**APIs & Deployment**  
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a78bfa) ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=a78bfa) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a78bfa)
-
 **MLOps & Experiment Tracking**  
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=a78bfa) ![DVC](https://img.shields.io/badge/DVC-0d1117?style=flat-square&logo=dvc&logoColor=a78bfa) ![DagsHub](https://img.shields.io/badge/DagsHub-0d1117?style=flat-square&logoColor=a78bfa) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=a78bfa)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=a78bfa) ![DVC](https://img.shields.io/badge/DVC-0d1117?style=flat-square&logo=dvc&logoColor=a78bfa) ![DagsHub](https://img.shields.io/badge/DagsHub-0d1117?style=flat-square&logoColor=a78bfa)
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=a78bfa) ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=a78bfa) ![Snowflake](https://img.shields.io/badge/Snowflake_Cortex-0d1117?style=flat-square&logo=snowflake&logoColor=a78bfa)
+**Cloud, DevOps & Deployment**  
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=a78bfa) ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=a78bfa) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a78bfa) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a78bfa) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=a78bfa)
 
 ---
 
