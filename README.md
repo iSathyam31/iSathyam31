@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./header.svg" alt="Sathyam A - AI / ML & GenAI Engineer" width="100%"/>
+# Sathyam A
+### AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/isathyam31)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:sathyam.a31@gmail.com)
@@ -32,6 +33,7 @@ I build **production-grade LLM systems**: retrieval pipelines that stay accurate
 | **AI Developer** | **3M** | RAG pipelines and agentic AI systems for enterprise knowledge and decision workflows |
 | **AI Engineer** | **Kreesalis** | Production RAG and agent-based systems |
 
+<!-- TODO: add 1 measurable result per role, e.g. "cut retrieval latency by X%" or "improved answer accuracy from X to Y" -->
 
 ---
 
@@ -42,6 +44,9 @@ I build **production-grade LLM systems**: retrieval pipelines that stay accurate
 | **[GitCortex](https://github.com/iSathyam31/GitCortex)** | Corrective RAG system that grades retrieved context and self-corrects before answering | LangGraph, LangChain, Vector DB |
 | **[Dash v2](https://github.com/iSathyam31/Dash-v2)** | Multi-agent analytics assistant that answers questions over a 100TB Snowflake dataset | AWS Strands Agents SDK, Snowflake |
 
+<!-- TODO: confirm repo URLs above, add 1-2 more pinned projects, and add demo links / screenshots / GIFs -->
+
+> 📌 Pin your 4–6 best repos on your profile so they appear right below this README.
 
 ---
 
