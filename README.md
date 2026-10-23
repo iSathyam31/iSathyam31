@@ -8,7 +8,7 @@
 [![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-0d1117?style=for-the-badge&logoColor=a78bfa)](https://huggingface.co/iSathyam03)
 [![Followers](https://img.shields.io/github/followers/iSathyam31?label=Followers&style=for-the-badge&logo=github&color=6e40c9&labelColor=0d1117)](https://github.com/iSathyam31)
 
-**B.Tech CSE (AI & Data Science), IIIT Sri City** · 📍 Bengaluru, India
+**B.Tech CSE, IIIT Sri City** · 📍 Bengaluru, India
 **🟢 Open to full-time AI / ML / GenAI Engineer roles (Bangalore or remote)**
 
 </div>
