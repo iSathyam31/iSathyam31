@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Sathyam A - AI / ML & GenAI Engineer" width="100%"/>
+<img src="./header.svg" alt="Sathyam A - AI / ML & GenAI Engineer" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/isathyam31)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:sathyam.a31@gmail.com)
@@ -86,6 +86,6 @@ I'm happy to chat about **agentic AI, RAG, LLM evaluation**, or entry-level AI/M
 
 > *"Build agents that think, systems that scale, and solutions that matter."*
 
-<img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
+<img src="./footer.svg" alt="Thanks for stopping by" width="100%"/>
 
 </div>
